@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="back_id" size="50.000000 76.597580" />
+    <ImageTarget name="photo_2023-05-13_22-26-35" size="10.000000 13.333333" />
+    <ImageTarget name="photo_2023-04-09_13-40-42" size="10.000000 15.841584" />
+    <ImageTarget name="photo_2023-04-06_00-37-55" size="12.000000 22.588236" />
+    <ImageTarget name="iot_ar" size="10.000000 3.882812" />
+    <ImageTarget name="mainref" size="6.000000 9.297821" />
+    <ImageTarget name="sample" size="6.000000 3.750000" />
+  </Tracking>
+</QCARConfig>
