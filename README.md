@@ -36,4 +36,4 @@ Push your changes to your forked repository: git push origin feature/your-featur
 Open a pull request in this repository, comparing your branch with the master branch.
 
 Contact
-If you have any questions, suggestions, or feedback, please feel free to contact us at 124006059@sastra.ac.in
+If you have any questions, suggestions, or feedback, please feel free to contact us at manojrd00@gmail.com
